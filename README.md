@@ -9,3 +9,4 @@ This version demonstrates modification and tracking of changes using Git.
 ## Login Feature
 
 Login functionality is being developed in the feature branch.
+This change is made to demonstrate git diff.
